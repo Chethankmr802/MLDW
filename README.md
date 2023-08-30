@@ -17,3 +17,7 @@ Technology:-  Oracle and BOBI Tool  (ETL procedures)
 
 •	Testing and troubleshooting the data warehouse system to ensure optimal performance and any missing data. 
 
+![image](https://github.com/Chethankmr802/MLDW/assets/123578114/f64f54cf-77c1-4fba-9604-7f05bfa81115)
+
+
+
